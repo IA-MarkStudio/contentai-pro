@@ -1,8 +1,8 @@
 {
   "functions": {
     "api/generate.js": {
-      "memory": 512,
-      "maxDuration": 30
+      "memory": 1024,
+      "maxDuration": 60
     },
     "api/webhook-hotmart.js": {
       "memory": 256,
